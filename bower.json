@@ -1,6 +1,6 @@
 {
   "name": "iron-behaviors",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "description": "Provides a set of behaviors for the iron elements",
   "private": true,
   "authors": [
@@ -16,8 +16,8 @@
   ],
   "license": "http://polymer.github.io/LICENSE.txt",
   "dependencies": {
-    "polymer": "Polymer/polymer#^1.2.0",
-    "iron-a11y-keys-behavior": "PolymerElements/iron-a11y-keys-behavior#^1.0.0"
+    "polymer": "github:CENTURY-Tech/polymer#v1.12.1",
+    "iron-a11y-keys-behavior": "github:CENTURY-Tech/iron-a11y-keys-behavior#v1.1.10"
   },
   "devDependencies": {
     "paper-styles": "polymerelements/paper-styles#^1.0.2",

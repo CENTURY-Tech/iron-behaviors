@@ -1,0 +1,9 @@
+{
+  "name": "iron-behaviors",
+  "version": "1.0.19",
+  "dependencies": {
+    "polymer": "github:CENTURY-Tech/polymer#v1.12.1",
+    "iron-a11y-keys-behavior": "github:CENTURY-Tech/iron-a11y-keys-behavior#v1.1.10"
+  },
+  "private": true
+}
